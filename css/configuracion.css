@@ -1,0 +1,23 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+html {
+  font-size: 10px;  
+  font-family: 'Roboto Flex', sans-serif;
+}
+
+:root {
+--fondo: #EFEFF6;
+--cuadro: #BEC0D5;
+--recuadro: #9FA0A2;
+--boton: #1816FF;
+--casilla: #6562F9;
+--gris: #616266;
+
+}
+
+

@@ -1,0 +1,102 @@
+.diseño1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 100vh;
+
+   
+}
+
+body{
+
+    background-color: #FF5E33; 
+}
+
+
+.diseño2 {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    width: 50rem;
+    height: 60rem;
+    align-items: center;
+    background-color: var(--fondo);
+    border-radius: 3rem;
+
+}
+
+
+.diseño3 {
+     display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    width: 50rem;
+    height: 60rem;
+    align-items: center;
+    background-color: var(--fondo);
+    border-radius: 3rem;
+    
+
+}
+
+.diseño3 label{
+
+width: 35rem;
+
+}
+
+.diseño3 input{
+
+    width: 100%;
+height: 4rem;
+
+background-color: #FDD7B1;
+border-radius: 0.8rem;
+
+outline-color: #FF5E33;
+border: none;
+padding: 1rem;
+
+}
+
+
+.sesion{
+
+    font-size: 3rem;
+    text-align: center;
+margin: 0erm 0rem 2rem 0rem;
+
+
+}
+
+
+.usuario{
+    font-size: 1.5rem;
+    margin: 2rem 0rem 2rem 0rem;
+}
+
+
+.contraseña {
+    font-size: 1.5rem;
+    margin: 2rem 0rem 2rem 0rem;
+}
+
+.entrar{
+
+    margin: 2rem 0rem 2rem 0rem; 
+width: 7rem;
+height: 3rem;
+
+
+}
+
+.imagen{
+
+    width: 17rem;
+    height: 11rem;
+    margin-left: 9.3rem;
+    margin-top: -1rem;
+}
